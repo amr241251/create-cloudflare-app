@@ -1,4 +1,39 @@
-{
+{{
+  "title": "amr  mohammed",
+  "text": "The mission of Cloudflare is to bring the high quality apps and libraries being developed all around the world to every website owner on the internet, no matter how small.",
+  "richtext": "<ol><li><h1>I’d just like to interject for a moment.</h1></li></ol><p>What you’re referring to as Linux, is in fact, <strong>GNU/Linux</strong>, or as I’ve recently taken to calling it, <em>GNU plus Linux</em>. Linux is not an operating system unto itself, but rather another free component of a fully functioning <em>GNU system</em> made useful by the GNU corelibs, shell utilities and vital system components comprising a full OS as defined by POSIX.</p><p>Many computer users run a modified version of the GNU system every day, without realizing it. Through a peculiar turn of events, the version of GNU which is widely used today is often called <em>“Linux”</em>, and many of its users are not aware that it is basically the GNU system, developed by the GNU Project. <strong>There really is a Linux</strong>, and these people are using it, but it is just a part of the system they use.</p><p>Linux is the kernel: the program in the system that allocates the machine’s resources to the other programs that you run. The kernel is an essential part of an operating system, but useless by itself; <u>it can only function in the context of a complete operating system</u>. Linux is normally used in combination with the GNU operating system: the whole system is basically GNU with Linux added, or GNU/Linux.</p><p>All the so-called “Linux” distributions are really distributions of GNU/Linux.</p>",
+  "enabled": true,
+  "thing": "b",
+  "container": {
+    "selector": "body",
+    "method": "append"
+  },
+  "color": "#ff7900",
+  "size": "medium",
+  "icons": {
+    "facebook": {
+      "enabled": true,
+      "username": ""
+    },
+    "twitter": {
+      "enabled": true,
+      "username": ""
+    }
+  },
+  "birthdate": null,
+  "partyStart": "Thu Jan 1 1970 02:00 +0200",
+  "partyEnd": "08:30",
+  "variations": [
+    "افنتس"
+  ],
+  "items": [
+    {
+      "itemType": "label",
+      "href": ""
+    }
+  ],
+  "logo": "https://images.cloudflareapps.com/0rK8rCm4XD5o/20220815_120434_0000.png"
+}
   "name": "@cloudflare-apps/create-cloudflare-app",
   "version": "1.0.0",
   "description": "Cloudflare Apps boilerplate featuring DNS powered by Webpack and Babel",
